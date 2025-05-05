@@ -18,10 +18,10 @@ Hyperparameter_Optimization/
 │   └── [Notebooks for Meta-dataset Generation Using 10 Datasets]
 │
 ├── Train_neural_network/
-│   └── Neural Network Training Notebook (Google Colab)
+│   └── Neural Network Training Notebook 
 │
 ├── Test_notebooks/
-│   └── Accuracy & Time Comparisons (Google Colab)
+│   └── Accuracy & Time Comparisons 
 │
 ├── Training_datasets/
 │   └── [10 Datasets for Meta-dataset Creation]

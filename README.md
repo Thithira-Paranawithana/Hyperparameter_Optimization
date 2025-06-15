@@ -48,7 +48,7 @@ Traditional hyperparameter optimization methods like Grid Search and Random Sear
 - Create a meta-dataset with dataset characteristics and accuracy
 - Design a neural network to predict accuracy for hyperparameters
 - Train the neural network on the meta-dataset
-- Predict hyperparameters for new datasets using the trained mode
+- Predict hyperparameters for new datasets using the trained model
 
 ### 📊 Meta-Dataset
 

@@ -101,5 +101,5 @@ This research was conducted under the guidance and support of the Department of 
 ## 📬 Contact
 
 **Thithira Paranawithana**  
-📧 thithiradilmith15@gmail.com  
+📧 thithiraparanawithana@gmail.com  
 📍 Sri Lanka
